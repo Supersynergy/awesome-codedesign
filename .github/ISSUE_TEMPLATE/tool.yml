@@ -1,0 +1,39 @@
+name: Add or update tool
+description: Propose a new visualization tool or metadata correction.
+title: "Tool: "
+labels: [tool]
+body:
+ - type: input
+ id: github
+ attributes:
+ label: GitHub URL
+ placeholder: https://github.com/owner/repo
+ validations:
+ required: true
+ - type: input
+ id: official
+ attributes:
+ label: Official URL
+ - type: dropdown
+ id: category
+ attributes:
+ label: Category
+ options:
+ - Charts/DataViz
+ - Maps/Geo
+ - UI Motion
+ - Diagramme/Flows
+ - 3D/WebGL/WebGPU
+ - BI/Dashboard/Notebook
+ - Creative Coding
+ - Video/Animation
+ - UI/Icon/System
+ - Graph/Network
+ validations:
+ required: true
+ - type: textarea
+ id: why
+ attributes:
+ label: Why it belongs
+ validations:
+ required: true
