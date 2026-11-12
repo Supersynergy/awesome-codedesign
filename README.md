@@ -15,6 +15,8 @@ Built for Supersynergy, mirrored for GitHub and Gitea:
 - Gitea: https://git.marketdeck.io/Supersynergy/awesome-codedesign
 - Source snapshot: 2026-06-18
 
+[🧭 Start here](#start-here) · [🗂️ Categories](#category-map) · [💻 Local picks](#fast-start-local-picks) · [📚 Full list](#awesome-list) · [Attribution](#attribution)
+
 ## Start Here
 
 - Full ranked list: [docs/awesome-list.md](docs/awesome-list.md)
