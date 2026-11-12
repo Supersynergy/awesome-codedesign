@@ -46,16 +46,16 @@ No app runtime is required. The gallery is static HTML, SVG thumbnails are check
 
 | Category | Count | Top Picks |
 | --- | ---: | --- |
-| Charts/DataViz | 155 | [Apache ECharts](#apache-echarts), [Chart.js](#chart-js), [Matplotlib](#matplotlib) |
-| Maps/Geo | 145 | [Leaflet](#leaflet), [Aseprite](#aseprite), [CesiumJS](#cesiumjs) |
-| UI Motion | 62 | [Anime](#anime), [InvokeAI](#invokeai), [Motion](#motion) |
-| Diagramme/Flows | 52 | [Excalidraw](#excalidraw), [Mermaid](#mermaid), [PlantUML](#plantuml) |
-| 3D/WebGL/WebGPU | 22 | [PixiJS](#pixijs), [React Three Fiber](#react-three-fiber), [Blender](#blender) |
-| BI/Dashboard/Notebook | 21 | [Thingsboard](#thingsboard), [Lightdash](#lightdash), [Nebula](#nebula) |
-| Creative Coding | 15 | [openFrameworks](#openframeworks), [Easydiffusion](#easydiffusion), [Nannou](#nannou) |
-| Video/Animation | 13 | [Motion Canvas](#motion-canvas), [Manim](#manim), [Sdnext](#sdnext) |
-| UI/Icon/System | 9 | [Pyspur](#pyspur), [Mini Graph Card](#mini-graph-card), [Nodezator](#nodezator) |
-| Graph/Network | 6 | [Sigma.js](#sigma-js), [Cytoscape.js](#cytoscape-js), [G6](#g6) |
+| Charts/DataViz | 155 | [Apache ECharts](docs/awesome-list.md#apache-echarts), [Chart.js](docs/awesome-list.md#chart-js), [Matplotlib](docs/awesome-list.md#matplotlib) |
+| Maps/Geo | 145 | [Leaflet](docs/awesome-list.md#leaflet), [Aseprite](docs/awesome-list.md#aseprite), [CesiumJS](docs/awesome-list.md#cesiumjs) |
+| UI Motion | 62 | [Anime](docs/awesome-list.md#anime), [InvokeAI](docs/awesome-list.md#invokeai), [Motion](docs/awesome-list.md#motion) |
+| Diagramme/Flows | 52 | [Excalidraw](docs/awesome-list.md#excalidraw), [Mermaid](docs/awesome-list.md#mermaid), [PlantUML](docs/awesome-list.md#plantuml) |
+| 3D/WebGL/WebGPU | 22 | [PixiJS](docs/awesome-list.md#pixijs), [React Three Fiber](docs/awesome-list.md#react-three-fiber), [Blender](docs/awesome-list.md#blender) |
+| BI/Dashboard/Notebook | 21 | [Thingsboard](docs/awesome-list.md#thingsboard), [Lightdash](docs/awesome-list.md#lightdash), [Nebula](docs/awesome-list.md#nebula) |
+| Creative Coding | 15 | [openFrameworks](docs/awesome-list.md#openframeworks), [Easydiffusion](docs/awesome-list.md#easydiffusion), [Nannou](docs/awesome-list.md#nannou) |
+| Video/Animation | 13 | [Motion Canvas](docs/awesome-list.md#motion-canvas), [Manim](docs/awesome-list.md#manim), [Sdnext](docs/awesome-list.md#sdnext) |
+| UI/Icon/System | 9 | [Pyspur](docs/awesome-list.md#pyspur), [Mini Graph Card](docs/awesome-list.md#mini-graph-card), [Nodezator](docs/awesome-list.md#nodezator) |
+| Graph/Network | 6 | [Sigma.js](docs/awesome-list.md#sigma-js), [Cytoscape.js](docs/awesome-list.md#cytoscape-js), [G6](docs/awesome-list.md#g6) |
 
 ## Fast-Start Local Picks
 
