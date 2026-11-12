@@ -5,7 +5,7 @@
 [![Data](https://img.shields.io/badge/data-June_2026-1d4ed8.svg)](data/tools.json)
 [![License](https://img.shields.io/badge/license-CC0--1.0-111827.svg)](LICENSE)
 
-![Awesome CodeDesign social preview](docs/assets/social-preview.png)
+![Awesome CodeDesign](docs/assets/social-preview.png)
 
 Curated CodeDesign stack: 500 high-value tools for charts, diagrams, maps, graph/network views, 3D/WebGL/WebGPU, UI motion, video-as-code, creative coding, dashboards, icons, and visual systems.
 
