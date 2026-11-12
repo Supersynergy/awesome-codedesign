@@ -1,0 +1,11 @@
+import {readFileSync,writeFileSync} from 'node:fs';
+import {resolve,dirname} from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=resolve(dirname(fileURLToPath(import.meta.url)),'../..');
+const path=resolve(root,'README.md');
+const readme=readFileSync(path,'utf8');
+const source=readFileSync(resolve(root,'docs/awesome-list.md'),'utf8');
+const catalog=source.slice(source.indexOf('## ')).trim();
+const start=readme.indexOf('## '),end=readme.indexOf('## Method and maintenance');
+if(start<0||end<=start)throw Error('README catalog boundaries missing');
+writeFileSync(path,readme.slice(0,start)+catalog+'\n\n'+readme.slice(end));
