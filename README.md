@@ -44,45 +44,131 @@ No app runtime is required. The gallery is static HTML, SVG thumbnails are check
 
 ## Category Map
 
-| Category | Count | Top Picks |
-| --- | ---: | --- |
-| Charts/DataViz | 155 | [Apache ECharts](docs/awesome-list.md#apache-echarts), [Chart.js](docs/awesome-list.md#chart-js), [Matplotlib](docs/awesome-list.md#matplotlib) |
-| Maps/Geo | 145 | [Leaflet](docs/awesome-list.md#leaflet), [Aseprite](docs/awesome-list.md#aseprite), [CesiumJS](docs/awesome-list.md#cesiumjs) |
-| UI Motion | 62 | [Anime](docs/awesome-list.md#anime), [InvokeAI](docs/awesome-list.md#invokeai), [Motion](docs/awesome-list.md#motion) |
-| Diagramme/Flows | 52 | [Excalidraw](docs/awesome-list.md#excalidraw), [Mermaid](docs/awesome-list.md#mermaid), [PlantUML](docs/awesome-list.md#plantuml) |
-| 3D/WebGL/WebGPU | 22 | [PixiJS](docs/awesome-list.md#pixijs), [React Three Fiber](docs/awesome-list.md#react-three-fiber), [Blender](docs/awesome-list.md#blender) |
-| BI/Dashboard/Notebook | 21 | [Thingsboard](docs/awesome-list.md#thingsboard), [Lightdash](docs/awesome-list.md#lightdash), [Nebula](docs/awesome-list.md#nebula) |
-| Creative Coding | 15 | [openFrameworks](docs/awesome-list.md#openframeworks), [Easydiffusion](docs/awesome-list.md#easydiffusion), [Nannou](docs/awesome-list.md#nannou) |
-| Video/Animation | 13 | [Motion Canvas](docs/awesome-list.md#motion-canvas), [Manim](docs/awesome-list.md#manim), [Sdnext](docs/awesome-list.md#sdnext) |
-| UI/Icon/System | 9 | [Pyspur](docs/awesome-list.md#pyspur), [Mini Graph Card](docs/awesome-list.md#mini-graph-card), [Nodezator](docs/awesome-list.md#nodezator) |
-| Graph/Network | 6 | [Sigma.js](docs/awesome-list.md#sigma-js), [Cytoscape.js](docs/awesome-list.md#cytoscape-js), [G6](docs/awesome-list.md#g6) |
+- **Charts/DataViz**<br>
+  Count: 155<br>
+  Top Picks: [Apache ECharts](docs/awesome-list.md#apache-echarts), [Chart.js](docs/awesome-list.md#chart-js), [Matplotlib](docs/awesome-list.md#matplotlib)
+
+- **Maps/Geo**<br>
+  Count: 145<br>
+  Top Picks: [Leaflet](docs/awesome-list.md#leaflet), [Aseprite](docs/awesome-list.md#aseprite), [CesiumJS](docs/awesome-list.md#cesiumjs)
+
+- **UI Motion**<br>
+  Count: 62<br>
+  Top Picks: [Anime](docs/awesome-list.md#anime), [InvokeAI](docs/awesome-list.md#invokeai), [Motion](docs/awesome-list.md#motion)
+
+- **Diagramme/Flows**<br>
+  Count: 52<br>
+  Top Picks: [Excalidraw](docs/awesome-list.md#excalidraw), [Mermaid](docs/awesome-list.md#mermaid), [PlantUML](docs/awesome-list.md#plantuml)
+
+- **3D/WebGL/WebGPU**<br>
+  Count: 22<br>
+  Top Picks: [PixiJS](docs/awesome-list.md#pixijs), [React Three Fiber](docs/awesome-list.md#react-three-fiber), [Blender](docs/awesome-list.md#blender)
+
+- **BI/Dashboard/Notebook**<br>
+  Count: 21<br>
+  Top Picks: [Thingsboard](docs/awesome-list.md#thingsboard), [Lightdash](docs/awesome-list.md#lightdash), [Nebula](docs/awesome-list.md#nebula)
+
+- **Creative Coding**<br>
+  Count: 15<br>
+  Top Picks: [openFrameworks](docs/awesome-list.md#openframeworks), [Easydiffusion](docs/awesome-list.md#easydiffusion), [Nannou](docs/awesome-list.md#nannou)
+
+- **Video/Animation**<br>
+  Count: 13<br>
+  Top Picks: [Motion Canvas](docs/awesome-list.md#motion-canvas), [Manim](docs/awesome-list.md#manim), [Sdnext](docs/awesome-list.md#sdnext)
+
+- **UI/Icon/System**<br>
+  Count: 9<br>
+  Top Picks: [Pyspur](docs/awesome-list.md#pyspur), [Mini Graph Card](docs/awesome-list.md#mini-graph-card), [Nodezator](docs/awesome-list.md#nodezator)
+
+- **Graph/Network**<br>
+  Count: 6<br>
+  Top Picks: [Sigma.js](docs/awesome-list.md#sigma-js), [Cytoscape.js](docs/awesome-list.md#cytoscape-js), [G6](docs/awesome-list.md#g6)
+
 
 ## Fast-Start Local Picks
 
 These already have local footprint through source cache, local clone, or local docs.
 
-| Rank | Tool | Category | Local | Link | Why |
-| ---: | --- | --- | --- | --- | --- |
-| 3 | Apache ECharts | Charts/DataViz | source-cache | [GitHub](https://github.com/apache/echarts) | Apache ECharts is a powerful, interactive charting and data visualization library for browser |
-| 9 | React Three Fiber | 3D/WebGL/WebGPU | source-cache | [GitHub](https://github.com/pmndrs/react-three-fiber) | A React renderer for Three.js |
-| 22 | Motion | UI Motion | source-cache | [GitHub](https://github.com/motiondivision/motion) | A modern animation library for React and JavaScript |
-| 33 | React Native Reanimated | UI Motion | source-cache | [GitHub](https://github.com/software-mansion/react-native-reanimated) | React Native's Animated library reimplemented |
-| 50 | Number Flow | UI Motion | source-cache | [GitHub](https://github.com/barvian/number-flow) | An animated number component for React, Vue, Svelte, and TS/JS. |
-| 61 | Theatre.js | 3D/WebGL/WebGPU | source-cache | [GitHub](https://github.com/theatre-js/theatre) | Motion design editor for the web |
-| 63 | Motion Primitives | UI Motion | source-cache | [GitHub](https://github.com/ibelick/motion-primitives) | UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source. |
-| 1 | Excalidraw | Diagramme/Flows | local-clone | [GitHub](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams |
-| 2 | Mermaid | Diagramme/Flows | local-clone | [GitHub](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown |
-| 4 | Chart.js | Charts/DataViz | local-clone | [GitHub](https://github.com/chartjs/Chart.js) | Simple HTML5 Charts using the <canvas> tag |
-| 5 | PixiJS | 3D/WebGL/WebGPU | local-clone | [GitHub](https://github.com/pixijs/pixijs) | The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. |
-| 7 | Plotly.js | Charts/DataViz | local-clone | [GitHub](https://github.com/plotly/plotly.js) | Open-source JavaScript charting library behind Plotly and Dash |
-| 8 | PlantUML | Diagramme/Flows | local-clone | [GitHub](https://github.com/plantuml/plantuml) | Generate diagrams from textual description |
-| 11 | D2 | Diagramme/Flows | local-clone | [GitHub](https://github.com/terrastruct/d2) | D2 is a modern diagram scripting language that turns text to diagrams. |
-| 12 | D3 | Charts/DataViz | local-clone | [GitHub](https://github.com/d3/d3) | Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: |
-| 13 | uPlot | Charts/DataViz | local-clone | [GitHub](https://github.com/leeoniya/uPlot) | A small, fast chart for time series, lines, areas, ohlc & bars |
-| 14 | Leaflet | Maps/Geo | local-clone | [GitHub](https://github.com/Leaflet/Leaflet) | JavaScript library for mobile-friendly interactive maps |
-| 15 | Tldraw | Diagramme/Flows | local-clone | [GitHub](https://github.com/tldraw/tldraw) | Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK. |
-| 17 | React Flow / xyflow | Diagramme/Flows | local-clone | [GitHub](https://github.com/xyflow/xyflow) | React Flow \| Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. |
-| 25 | CesiumJS | Maps/Geo | local-clone | [GitHub](https://github.com/CesiumGS/cesium) | An open-source JavaScript library for world-class 3D globes and maps :earth_americas: |
+- **Apache ECharts**<br>
+  Rank: 3 · Category: Charts/DataViz · Local: source-cache · Link: [GitHub](https://github.com/apache/echarts)<br>
+  Why: Apache ECharts is a powerful, interactive charting and data visualization library for browser
+
+- **React Three Fiber**<br>
+  Rank: 9 · Category: 3D/WebGL/WebGPU · Local: source-cache · Link: [GitHub](https://github.com/pmndrs/react-three-fiber)<br>
+  Why: A React renderer for Three.js
+
+- **Motion**<br>
+  Rank: 22 · Category: UI Motion · Local: source-cache · Link: [GitHub](https://github.com/motiondivision/motion)<br>
+  Why: A modern animation library for React and JavaScript
+
+- **React Native Reanimated**<br>
+  Rank: 33 · Category: UI Motion · Local: source-cache · Link: [GitHub](https://github.com/software-mansion/react-native-reanimated)<br>
+  Why: React Native's Animated library reimplemented
+
+- **Number Flow**<br>
+  Rank: 50 · Category: UI Motion · Local: source-cache · Link: [GitHub](https://github.com/barvian/number-flow)<br>
+  Why: An animated number component for React, Vue, Svelte, and TS/JS.
+
+- **Theatre.js**<br>
+  Rank: 61 · Category: 3D/WebGL/WebGPU · Local: source-cache · Link: [GitHub](https://github.com/theatre-js/theatre)<br>
+  Why: Motion design editor for the web
+
+- **Motion Primitives**<br>
+  Rank: 63 · Category: UI Motion · Local: source-cache · Link: [GitHub](https://github.com/ibelick/motion-primitives)<br>
+  Why: UI kit to make beautiful, animated interfaces, faster. Customizable. Open Source.
+
+- **Excalidraw**<br>
+  Rank: 1 · Category: Diagramme/Flows · Local: local-clone · Link: [GitHub](https://github.com/excalidraw/excalidraw)<br>
+  Why: Virtual whiteboard for sketching hand-drawn like diagrams
+
+- **Mermaid**<br>
+  Rank: 2 · Category: Diagramme/Flows · Local: local-clone · Link: [GitHub](https://github.com/mermaid-js/mermaid)<br>
+  Why: Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
+
+- **Chart.js**<br>
+  Rank: 4 · Category: Charts/DataViz · Local: local-clone · Link: [GitHub](https://github.com/chartjs/Chart.js)<br>
+  Why: Simple HTML5 Charts using the <canvas> tag
+
+- **PixiJS**<br>
+  Rank: 5 · Category: 3D/WebGL/WebGPU · Local: local-clone · Link: [GitHub](https://github.com/pixijs/pixijs)<br>
+  Why: The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+
+- **Plotly.js**<br>
+  Rank: 7 · Category: Charts/DataViz · Local: local-clone · Link: [GitHub](https://github.com/plotly/plotly.js)<br>
+  Why: Open-source JavaScript charting library behind Plotly and Dash
+
+- **PlantUML**<br>
+  Rank: 8 · Category: Diagramme/Flows · Local: local-clone · Link: [GitHub](https://github.com/plantuml/plantuml)<br>
+  Why: Generate diagrams from textual description
+
+- **D2**<br>
+  Rank: 11 · Category: Diagramme/Flows · Local: local-clone · Link: [GitHub](https://github.com/terrastruct/d2)<br>
+  Why: D2 is a modern diagram scripting language that turns text to diagrams.
+
+- **D3**<br>
+  Rank: 12 · Category: Charts/DataViz · Local: local-clone · Link: [GitHub](https://github.com/d3/d3)<br>
+  Why: Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+
+- **uPlot**<br>
+  Rank: 13 · Category: Charts/DataViz · Local: local-clone · Link: [GitHub](https://github.com/leeoniya/uPlot)<br>
+  Why: A small, fast chart for time series, lines, areas, ohlc & bars
+
+- **Leaflet**<br>
+  Rank: 14 · Category: Maps/Geo · Local: local-clone · Link: [GitHub](https://github.com/Leaflet/Leaflet)<br>
+  Why: JavaScript library for mobile-friendly interactive maps
+
+- **Tldraw**<br>
+  Rank: 15 · Category: Diagramme/Flows · Local: local-clone · Link: [GitHub](https://github.com/tldraw/tldraw)<br>
+  Why: Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
+
+- **React Flow / xyflow**<br>
+  Rank: 17 · Category: Diagramme/Flows · Local: local-clone · Link: [GitHub](https://github.com/xyflow/xyflow)<br>
+  Why: React Flow \| Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+
+- **CesiumJS**<br>
+  Rank: 25 · Category: Maps/Geo · Local: local-clone · Link: [GitHub](https://github.com/CesiumGS/cesium)<br>
+  Why: An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
+
 
 ## Immediate Filter
 
