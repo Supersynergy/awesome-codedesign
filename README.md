@@ -1,4 +1,6 @@
-<img src="docs/assets/social-preview.png" alt="Awesome CodeDesign" width="300" align="right">
+<p align="center">
+  <img src="docs/assets/social-preview.png" alt="Awesome CodeDesign" width="960">
+</p>
 
 # Awesome CodeDesign
 
